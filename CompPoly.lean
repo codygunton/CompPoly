@@ -67,6 +67,7 @@ import CompPoly.Multilinear.TransformEquiv
 import CompPoly.Multivariate.CMvMonomial
 import CompPoly.Multivariate.CMvPolynomial
 import CompPoly.Multivariate.CMvPolynomialEvalLemmas
+import CompPoly.Multivariate.DegreeBound
 import CompPoly.Multivariate.FinSuccEquiv
 import CompPoly.Multivariate.HornerLemmas
 import CompPoly.Multivariate.Lawful
@@ -77,6 +78,7 @@ import CompPoly.Multivariate.MvPolyEquiv.Instances
 import CompPoly.Multivariate.Operations
 import CompPoly.Multivariate.Rename
 import CompPoly.Multivariate.Restrict
+import CompPoly.Multivariate.Sumcheck
 import CompPoly.Multivariate.Unlawful
 import CompPoly.Multivariate.VarsDegrees
 import CompPoly.Multivariate.Wheels
